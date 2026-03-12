@@ -2,10 +2,10 @@
 This project applies SQL based data validation to a 10,000 record manufacturing dataset. Drawing on my background in X-ray platform engineering, I analysed the relationship between mechanical load, thermal stress and tool degradation to identify failure precursors.
 
 ## Objective
-Analyse machine operating conditions and identify factors associated with machine failure.
+Analyse machine operating conditions to identify failure drivers and early warning signals for preventive maintenance.
 
 ## Dataset Source
-This project uses a synthetic predictive maintenance dataset originally published by the UCI Machine Learning Repository and accessed through Kaggle for analysis practice.
+Predictive Maintenance Dataset (UCI ML Repository)
 
 ## Dataset characteristics
 - 10,000 machine records
@@ -15,7 +15,7 @@ This project uses a synthetic predictive maintenance dataset originally publishe
 - Failure categories
 
 ## Tools Used
-- DB browser for SQLite
+- SQL analysis performed using SQLite (DB Browser for SQLite)
 - Excel for visualization
 
 ## Skills used
